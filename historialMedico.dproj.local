@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/24 18:16:01.000.608,=C:\Users\Hubel\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/04/06 23:19:36.000.195,=C:\Users\Hubel\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/04/09 15:56:19.000.938,=C:\Users\Hubel\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/04/09 16:19:39.000.333,C:\Users\Hubel\Documents\Embarcadero\Studio\Projects\Unit5.pas=D:\HSWARE\AgendaExcel\umain.pas</Transaction>
+    <Transaction>2022/04/09 16:19:39.000.333,C:\Users\Hubel\Documents\Embarcadero\Studio\Projects\Unit5.fmx=D:\HSWARE\AgendaExcel\umain.fmx</Transaction>
+    <Transaction>2022/04/09 16:19:45.000.957,C:\Users\Hubel\Documents\Embarcadero\Studio\Projects\Project7.dproj=D:\HSWARE\AgendaExcel\AgendaExcel.dproj</Transaction>
+    <Transaction>2022/04/14 19:51:59.499,D:\UNAS\Examen1\historialMedico.dproj=C:\Users\JHIMI MISAEL MARCELO\Downloads\AgendaExcel\AgendaExcel\AgendaExcel.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
