@@ -6,8 +6,15 @@ Objetivo almacenar datos de una cooperativa para tener el control de sus product
 
 # INSTALACION 
 
-Se desarrolo en apache NetBeans IDE 12.4
-abrir el proyecto dentro de la siguiente ruta  "...\Inventario V4.0\ManipularJTable\AddRowJTable\src\Source"
+Se desarrolo en el lenguaje de JAVA en apache NetBeans IDE 12.4
+
+Abrir el proyecto que esta dentro de la siguiente ruta  "...\Inventario V4.0\ManipularJTable\AddRowJTable\src\Source"
+
+La liberia se encuentra en la siguiente ruta "...\Inventario V4.0\ManipularJTable\AddRowJTable\libreria"
+
+Si no pudo instalar la libreria se ayuda de este video.
+
+https://www.youtube.com/watch?v=sC9BLBn0KuI&list=PLJhylq3EzN1z9jgPPu_sNirwk_nzqfNLA&index=4&t=655s
 
 # COMO USAR EL PROGRAMA
 Campos para ingresar datos del producto mediante el TextField.
@@ -28,21 +35,27 @@ PASOS PARA AGREGAR
 
 Despues de elegir los datos se tiene que hacer click en el boton "Guardar Fechas"
 
-Para agregar los datos ingresado en la tabla hacer click en "Añadir"
+![guardar](https://user-images.githubusercontent.com/101279472/163690399-5ae6ac94-4f1b-4b58-8722-2021aaf98bbb.png)
+
+Para agregar los datos ingresado  hacer click en el boton "Añadir"
 
 PARA MODIFICAR ALGUN DATO:
 
-Se selecciona la fila a modificar  luego dar click en "BUSCAR" y modificar el dato  luego dar click en "MODIFICAR"
+Se selecciona la fila a modificar  luego dar click en "BUSCAR" y automaticamente se pasara los datos al textField 
+y podra modificar al terminar de modificar hacer click en el boton "MODIFICAR"
 
-![modificar1](https://user-images.githubusercontent.com/101279472/163686705-27e08ff0-4fbd-440d-a698-8e4ff74c80f6.png)
+![modificar](https://user-images.githubusercontent.com/101279472/163690725-1ac0a6cd-33d6-4cd2-aa72-9103bfb00e71.png)
+
 
 PARA ELIMINAR FILA:
 
 selecionar la fila a modificar y click en "ELIMINAR" 
 
+![modificar1](https://user-images.githubusercontent.com/101279472/163690752-ad7b4d52-7d47-4b75-ad77-cb753dde1aba.png)
+
+
 Parar guardar en formato txt solo dar click en el boton "GUARDAR"
 
-
-
-
-NO PUDE AGREGAR LA FUNCION DE MOSTRAR LA LISTA DE MANTENIMIENTO :(  SORRY NO ME REPRUEBE ING...
+#######################################################################################################
+  NO PUDE AGREGAR LA FUNCION DE MOSTRAR LA LISTA DE MANTENIMIENTO, SORRY. NO ME REPRUEBE ING... :(    
+######################################################################################################
