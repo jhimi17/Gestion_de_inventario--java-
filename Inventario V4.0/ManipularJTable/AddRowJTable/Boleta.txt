@@ -1,0 +1,8 @@
+			REGISTRO DE PROSUCTOS
+
+Datos del Producto
+
+NOMBRE		CODIGO		MODELO		MARCA 		PRESIO		ESTADO		OFICINA DESTINO		F.ENTREGA		F.FABRICACION		GARANTIA		RESPONSABLE
+dsffggghghjghd		dfd		dfd		df		dfd		MALO		fdf		13 / 4 / 2022		15 / 4 / 2022		fdf		d		
+t		rt		rt		rtrt		rt		POR REPARAR		rt		5 / 4 / 2022		15 / 4 / 2022		rt		rt		
+
