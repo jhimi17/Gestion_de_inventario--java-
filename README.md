@@ -56,6 +56,4 @@ selecionar la fila a modificar y click en "ELIMINAR"
 
 Parar guardar en formato txt solo dar click en el boton "GUARDAR"
 
-#######################################################################################################
-  NO PUDE AGREGAR LA FUNCION DE MOSTRAR LA LISTA DE MANTENIMIENTO, SORRY. NO ME REPRUEBE ING... :(    
-######################################################################################################
+
